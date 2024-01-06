@@ -1,0 +1,14 @@
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\bin\Release\LoggerWindowsFormUI.exe.config
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\bin\Release\LoggerWindowsFormUI.exe.manifest
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\bin\Release\LoggerWindowsFormUI.application
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\bin\Release\LoggerWindowsFormUI.exe
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\bin\Release\LoggerWindowsFormUI.pdb
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.Form1.resources
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.Properties.Resources.resources
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.csproj.GenerateResource.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.exe.manifest
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.application
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.exe
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsFormUI\obj\Release\LoggerWindowsFormUI.pdb

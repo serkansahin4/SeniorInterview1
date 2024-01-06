@@ -1,0 +1,13 @@
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\bin\Release\LoggerWindowsService.exe.config
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\bin\Release\LoggerWindowsService.exe.manifest
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\bin\Release\LoggerWindowsService.application
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\bin\Release\LoggerWindowsService.exe
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\bin\Release\LoggerWindowsService.pdb
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.csproj.AssemblyReference.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.ProjectInstaller.resources
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.csproj.GenerateResource.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.exe.manifest
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.application
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.exe
+C:\Users\SOFT\Desktop\Siberson\SibersonSolution\LoggerWindowsService\obj\Release\LoggerWindowsService.pdb
